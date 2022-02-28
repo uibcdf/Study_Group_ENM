@@ -4,9 +4,9 @@
 
 [[Tirion1996Large\_p5] Tirion, Monique M. “Large Amplitude Elastic Motions in Proteins from a Single-Parameter, Atomic Analysis.” Physical Review Letters 77, no. 9 (1996): 1905–8.](https://doi.org/10.1103/physrevlett.77.1905)
 
-[[Rader2006The\_90] Rader, A. J., Chennubhotla, C., Yang, L. W., Bahar, I., & Cui, Q. "The Gaussian network model: Theory and applications". "Normal mode analysis: Theory and applications to biological and chemical systems", 9 (2006): 41-64.](https://csbweb.csb.pitt.edu/Faculty/bahar/publications/b14.pdf)
-
 [[Bastolla2014Computing\_w6] Bastolla, Ugo. “Computing Protein Dynamics from Protein Structure with Elastic Network Models.” Wiley Interdisciplinary Reviews: Computational Molecular Science 4, no. 5 (2014): 488–503.](https://doi.org/10.1002/wcms.1186)
+
+[[Rader2006The\_90] Rader, A. J., Chennubhotla, C., Yang, L. W., Bahar, I., & Cui, Q. "The Gaussian network model: Theory and applications". "Normal mode analysis: Theory and applications to biological and chemical systems", 9 (2006): 41-64.](https://csbweb.csb.pitt.edu/Faculty/bahar/publications/b14.pdf)
 
 [[Bahar2010Global\_a8] Bahar, Ivet, Timothy R. Lezon, Lee-Wei Yang, and Eran Eyal. “Global Dynamics of Proteins: Bridging Between Structure and Function.” Annual Review of Biophysics 39, no. 1 (2010): 23–42.](https://doi.org/10.1146/annurev.biophys.093008.131258)
 
